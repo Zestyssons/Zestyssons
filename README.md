@@ -231,7 +231,7 @@ Capabilities:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zestyssons/Zestyssons/output/commit-invaders-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zestyssons/Zestyssons/output/commit-invaders.svg">
-  <img alt="Commit Invaders" src="https://raw.githubusercontent.com/Zestyssons/Zestyssons/output/commit-invaders.svg" width="100%">
+  <img alt="Commit Invaders" src="spaceship-banner.svg" width="100%">
 </picture>
 
 </div>
