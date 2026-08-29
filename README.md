@@ -1,24 +1,14 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- 🚀 ANIMATED SPACESHIP BANNER                                   -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<img src="https://github-readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=800&color=00D4AA&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Cristopher+%F0%9F%91%8B;Estudiante+de+Inform%C3%A1tica+%F0%9F%87%A9%F0%9F%87%B4;Building+full-stack+systems+%E2%9A%A1" alt="Typing SVG" />
 
-<a href="https://github.com/Zestyssons">
-  <img src="spaceship-banner.svg" alt="Zestyssons — Space Banner" width="100%" />
-</a>
-
-<p style="font-family: monospace; color: #8b949e; font-size: 0.95rem; margin-top: -8px;">
-  <b style="color: #00d4aa;">Python</b> · <b style="color: #0066ff;">Discord Bots</b> · <b style="color: #aa00ff;">Lavalink</b> · <b style="color: #f5a800;">Full-Stack</b>
-</p>
-
-<p style="font-family: monospace; color: #8b949e; font-size: 0.82rem;">
+<p style="font-family: monospace; color: #8b949e; font-size: 0.85rem; margin-top: 8px;">
   🇩🇴 San Francisco de Macorís, R.D. &nbsp;|&nbsp; 🎓 UASD — Informática (3er semestre) &nbsp;|&nbsp; 🔐 CCA Certified
 </p>
 
 <!-- ─── STATUS BADGES ─── -->
-<a href="https://github.com/Zestyssons?tab=repositories"><img src="https://img.shields.io/badge/🔬_Building-Glizh-00d4aa?style=flat-square&logo=discord&logoColor=white" alt="Building Glizh" /></a>
-<a href="https://zestysson-glizh.hf.space"><img src="https://img.shields.io/badge/🚀_Live-HuggingFace-ff9900?style=flat-square&logo=huggingface&logoColor=white" alt="Live on HF" /></a>
+<a href="https://github.com/Zestyssons?tab=repositories"><img src="https://img.shields.io/badge/%F0%9F%94%AC_Building-Glizh-00d4aa?style=flat-square&logo=discord&logoColor=white" alt="Building Glizh" /></a>
+<a href="https://zestysson-glizh.hf.space"><img src="https://img.shields.io/badge/%F0%9F%9A%80_Live-HuggingFace-ff9900?style=flat-square&logo=huggingface&logoColor=white" alt="Live on HF" /></a>
 <a href="https://github.com/Zestyssons?tab=repositories&sort=stargazers"><img src="https://img.shields.io/github/stars/Zestyssons?style=flat-square&color=f5a800&label=Stars" alt="Stars" /></a>
 <a href="https://github.com/Zestyssons"><img src="https://komarev.com/ghpvc/?username=Zestyssons&color=00d4aa&style=flat-square&label=Profile+Views" alt="Profile Views" /></a>
 
@@ -26,7 +16,7 @@
 
 ---
 
-## <code style="color: #00d4aa;">> </code><span style="font-family: monospace; color: #c9d1d9;">whoami</span>
+## <code style="color: #00d4aa;">&gt; </code><span style="font-family: monospace; color: #c9d1d9;">whoami</span>
 
 ```text
 ┌─────────────────────────────────────────────────────────────────┐
@@ -42,13 +32,13 @@
 
 ---
 
-## <code style="color: #00d4aa;">> </code><span style="font-family: monospace; color: #c9d1d9;">ls ./projects</span>
+## <code style="color: #00d4aa;">&gt; </code><span style="font-family: monospace; color: #c9d1d9;">ls ./projects</span>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔊 <span style="color: #f5a800;">Glizh</span>
+### <span style="color: #f5a800;">Glizh</span>
 > Discord Music Bot + Web Dashboard
 
 Full-stack system: **Flask** backend, **WebSocket** real-time control, **Lavalink** audio engine, deployed on **HuggingFace Spaces** with Docker.
@@ -57,19 +47,19 @@ Full-stack system: **Flask** backend, **WebSocket** real-time control, **Lavalin
 
 ```bash
 Features:
-  ├── 🎵 Queue management via web UI
-  ├── 🔐 Discord OAuth2 login
-  ├── 📱 Responsive dashboard (CSS Grid)
-  ├── ⚡ Real-time playback sync
-  └── 🎨 Cinematic lobby (CRT, glitch, particles)
+  ├── Queue management via web UI
+  ├── Discord OAuth2 login
+  ├── Responsive dashboard (CSS Grid)
+  ├── Real-time playback sync
+  └── Cinematic lobby (CRT, glitch, particles)
 ```
 
-<a href="https://zestysson-glizh.hf.space"><img src="https://img.shields.io/badge/Live_Demo-00d4aa?style=flat-square&logo=huggingface&logoColor=white" alt="Live" /></a> <a href="https://github.com/Zestyssons/Glizh"><img src="https://img.shields.io/badge/Source-Code-8b949e?style=flat-square&logo=github&logoColor=white" alt="Source" /></a>
+<a href="https://zestysson-glizh.hf.space"><img src="https://img.shields.io/badge/Live_Demo-00d4aa?style=flat-square&logo=huggingface&logoColor=white" alt="Live" /></a> <a href="https://github.com/Zestyssons/Glizh"><img src="https://img.shields.io/badge/Source_Code-8b949e?style=flat-square&logo=github&logoColor=white" alt="Source" /></a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 <span style="color: #0066ff;">OCI Bot</span>
+### <span style="color: #0066ff;">OCI Bot</span>
 > Oracle Cloud Infrastructure Provisioner
 
 Automated VM creation on OCI with auto-detection of availability domains, retry logic, and error handling.
@@ -78,14 +68,14 @@ Automated VM creation on OCI with auto-detection of availability domains, retry 
 
 ```bash
 Capabilities:
-  ├── 🔍 Auto-detect available domains
-  ├── 🖥️ Provision Ubuntu 24.04 ARM64 VMs
-  ├── 🔄 Retry logic (60 attempts, 60s wait)
-  ├── 🔐 SSH key management
-  └── 📊 Resource cleanup on failure
+  ├── Auto-detect available domains
+  ├── Provision Ubuntu 24.04 ARM64 VMs
+  ├── Retry logic (60 attempts, 60s wait)
+  ├── SSH key management
+  └── Resource cleanup on failure
 ```
 
-<a href="https://github.com/Zestyssons"><img src="https://img.shields.io/badge/Explore-More-8b949e?style=flat-square&logo=github&logoColor=white" alt="More" /></a>
+<a href="https://github.com/Zestyssons"><img src="https://img.shields.io/badge/Explore_More-8b949e?style=flat-square&logo=github&logoColor=white" alt="More" /></a>
 
 </td>
 </tr>
@@ -93,11 +83,10 @@ Capabilities:
 
 ---
 
-## <code style="color: #00d4aa;">> </code><span style="font-family: monospace; color: #c9d1d9;">cat ./skills.json</span>
+## <code style="color: #00d4aa;">&gt; </code><span style="font-family: monospace; color: #c9d1d9;">cat ./skills.json</span>
 
 <div align="center">
 
-<!-- ═══ PRIMARY SKILLS ═══ -->
 <table>
 <tr>
 <td align="center" width="90">
@@ -127,7 +116,6 @@ Capabilities:
 </tr>
 </table>
 
-<!-- ═══ SECONDARY / TOOLS ═══ -->
 <table>
 <tr>
 <td align="center" width="90">
@@ -157,7 +145,6 @@ Capabilities:
 </tr>
 </table>
 
-<!-- ═══ CYBERSECURITY ═══ -->
 <table>
 <tr>
 <td align="center" width="90">
@@ -191,22 +178,22 @@ Capabilities:
 
 ---
 
-## <code style="color: #00d4aa;">> </code><span style="font-family: monospace; color: #c9d1d9;">cat ./certifications.log</span>
+## <code style="color: #00d4aa;">&gt; </code><span style="font-family: monospace; color: #c9d1d9;">cat ./certifications.log</span>
 
 <div align="center">
 
 | Date | Certification | Issuer | Status |
 |:---:|:---|:---|:---:|
-| Jun 2026 | **Cybersecurity Certification Associate (CCA)** | Certiplus LLC | ✅ Valid → Jun 2029 |
-| Jan 2026 | **Ciberseguridad — Nivel Intermedio** (860h) | INDOTEL / BID / Cymetria | ✅ |
-| Nov 2024 | **Operaciones Básicas de Ofimática** (200h) | INFOTEP | ✅ |
-| 2021 | **Reparación de Computadoras** | INFOTEP | ✅ |
+| Jun 2026 | **Cybersecurity Certification Associate (CCA)** | Certiplus LLC | Valid - Jun 2029 |
+| Jan 2026 | **Ciberseguridad - Nivel Intermedio** (860h) | INDOTEL / BID / Cymetria | Done |
+| Nov 2024 | **Operaciones Basicas de Ofimatica** (200h) | INFOTEP | Done |
+| 2021 | **Reparacion de Computadoras** | INFOTEP | Done |
 
 </div>
 
 ---
 
-## <code style="color: #00d4aa;">> </code><span style="font-family: monospace; color: #c9d1d9;">npx github-readme-stats --username Zestyssons --theme github_dark</span>
+## <code style="color: #00d4aa;">&gt; </code><span style="font-family: monospace; color: #c9d1d9;">npx github-readme-stats --username Zestyssons --theme github_dark</span>
 
 <div align="center">
 
@@ -223,7 +210,7 @@ Capabilities:
 
 ---
 
-## <code style="color: #00d4aa;">> </code><span style="font-family: monospace; color: #c9d1d9;">ss -tlnp | grep social</span>
+## <code style="color: #00d4aa;">&gt; </code><span style="font-family: monospace; color: #c9d1d9;">ss -tlnp | grep social</span>
 
 <div align="center">
 
@@ -232,6 +219,20 @@ Capabilities:
 <a href="mailto:cristophermoravargas1@gmail.com"><img src="https://img.shields.io/badge/Email-Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://zestysson-glizh.hf.space"><img src="https://img.shields.io/badge/Glizh-Live-Ff9900?style=for-the-badge&logo=huggingface&logoColor=white" alt="Glizh" /></a>
 <a href="https://top.gg/bot/769015435923292180"><img src="https://img.shields.io/badge/Top.GG-Vote-FF1B6B?style=for-the-badge&logo=discord&logoColor=white" alt="Top.GG" /></a>
+
+</div>
+
+---
+
+<div align="center">
+
+### Mis contribuciones, version arcade
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zestyssons/Zestyssons/output/commit-invaders-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zestyssons/Zestyssons/output/commit-invaders.svg">
+  <img alt="Commit Invaders" src="https://raw.githubusercontent.com/Zestyssons/Zestyssons/output/commit-invaders.svg" width="100%">
+</picture>
 
 </div>
 
@@ -249,7 +250,7 @@ Capabilities:
 ```
 
 <sub style="font-family: monospace; color: #8b949e;">
-  Built with 💛 by <a href="https://github.com/Zestyssons" style="color: #00d4aa; text-decoration: none;">Cristopher Mora Vargas</a> ·
+  Built with by <a href="https://github.com/Zestyssons" style="color: #00d4aa; text-decoration: none;">Cristopher Mora Vargas</a> ·
   <a href="https://github.com/Zestyssons/Zestyssons" style="color: #8b949e; text-decoration: none;">Zestyssons/Zestyssons</a>
 </sub>
 
