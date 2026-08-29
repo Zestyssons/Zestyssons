@@ -1,9 +1,13 @@
 <div align="center">
 
-<img src="https://github-readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=800&color=00D4AA&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Cristopher+%F0%9F%91%8B;Estudiante+de+Inform%C3%A1tica+%F0%9F%87%A9%F0%9F%87%B4;Building+full-stack+systems+%E2%9A%A1" alt="Typing SVG" />
+<h1 align="center">Hola, soy Cristopher 👋</h1>
+
+<p align="center">
+  <b style="color: #00d4aa;">Building full-stack systems that just work ⚡</b>
+</p>
 
 <p style="font-family: monospace; color: #8b949e; font-size: 0.85rem; margin-top: 8px;">
-  🇩🇴 San Francisco de Macorís, R.D. &nbsp;|&nbsp; 🎓 UASD — Informática (3er semestre) &nbsp;|&nbsp; 🔐 CCA Certified
+  🇩🇴 San Francisco de Macoris, R.D. &nbsp;|&nbsp; 🔐 CCA Certified
 </p>
 
 <!-- ─── STATUS BADGES ─── -->
@@ -21,7 +25,7 @@
 ```text
 ┌─────────────────────────────────────────────────────────────────┐
 │  Cristopher Mora Vargas                                         │
-│  Técnico en Soporte y Ciberseguridad | Est. Informática UASD   │
+│  Técnico en Soporte y Ciberseguridad                            │
 │                                                                 │
 │  > Building full-stack systems that bridge Discord & Web.       │
 │  > Obsessed with real-time audio, WebSocket architecture,      │
