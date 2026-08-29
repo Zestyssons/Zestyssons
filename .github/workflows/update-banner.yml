@@ -1,0 +1,36 @@
+name: Update Space Invaders Banner
+
+on:
+  schedule:
+    - cron: '0 12 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: VARDHAMANPATEL23/git-invader@main
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_username: ${{ github.repository_owner }}
+          output_dir: dist
+          color: multi
+          mode: dark
+          ship: viper
+
+      - name: Copy banner
+        run: cp dist/git-invader-multi-dark.svg spaceship-banner.svg
+
+      - name: Commit updated banner
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add spaceship-banner.svg
+          git diff --staged --quiet || git commit -m "chore: update space invaders banner [skip ci]"
+          git push
